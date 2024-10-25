@@ -1,0 +1,18 @@
+.todo-container{
+    /* border: 1px solid; */
+    text-align: center;
+    margin-top:1rem;
+
+}
+.todo-filter-container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.todo-spacing{
+    margin: 0 0.5rem;
+}
+.form-check-label{
+    margin: 0 0.5rem;
+}

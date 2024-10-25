@@ -1,0 +1,41 @@
+.counter-container {
+    background-color: rgb(255, 255, 255);
+    border: 2px solid #fce4ec; /*ก๊อบ*/
+    ;
+    ;
+    padding-bottom: 1rem;
+    border-radius: 0.5rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    
+}
+/* .counter-title {
+    color: red;
+} */
+.b1{
+    background-color: #A26B7F;
+    border: 2px;
+    border-radius: 0.3rem;
+    padding-bottom: 0.2rem;
+    margin: 0 0.5rem;
+    padding-left: 0.9rem;
+    padding-right: 0.9rem;
+    font-size: x-large;
+}
+.b2{
+    background-color: #738089;
+    border: 2px;
+    border-radius: 0.3rem;
+    padding-bottom: 0.2rem;
+    margin: 0 0.5rem;
+    padding-left: 0.9rem;
+    padding-right: 0.9rem;
+    font-size: x-large;
+
+}
+
+
+.counter-value{
+    font-size: x-large;
+    margin: 0 0.5rem;
+}

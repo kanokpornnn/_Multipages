@@ -1,0 +1,42 @@
+.variable-container {
+    border-radius: 0.5rem;
+    padding: 0.5 0.5rem 0 0.5rem; 
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    border: 2px solid #fce4ec;
+    /* background-color: #B4D6CD; */
+    margin-bottom: 1  rem;
+}
+.counter-title {
+    color: rgb(0, 0, 0);
+    margin-top: 1rem;
+
+}
+
+
+.counter-value{
+    
+    font-size: x-large;
+    margin: 0 0.5rem;
+}
+.tem2{
+    background-color: #A26B7F;
+    border: 2px;
+    border-radius: 0.3rem;
+    padding-bottom: 0.3rem;
+    margin: 0 0.5rem;
+    padding-left: 0.9rem;
+    padding-right: 0.9rem;
+    font-size: x-large;
+}
+.tem3{
+    background-color: #738089;
+    border: 2px;
+    border-radius: 0.3rem;
+    padding-bottom: 0.3rem;
+    margin: 0 0.5rem;
+    padding-left: 0.9rem;
+    padding-right: 0.9rem;
+    font-size: x-large;
+}

@@ -1,0 +1,22 @@
+.footer-container{
+    text-align: center;
+    padding: 20px;
+    
+}
+
+.S1{
+    background-color: #FF5E78;  /* สีกรอบ */
+    
+}
+
+.S2{
+    background-color: #000000;  /* สีกรอบ */
+    
+}
+.S1,.S2{
+    font-size: 30px;
+    border-radius: 8px; /* ขอบมน */
+    color: #ffffff; /* สีข้อความ */
+    display: inline-block;
+    padding: 7px 10px;
+}

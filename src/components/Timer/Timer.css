@@ -1,0 +1,25 @@
+.timer-container {
+    border: 1px solid #fce4ec;
+    border-radius: 0.5rem;
+    padding: 0.5rem; 
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 0.5  rem;
+}
+.timer-title {
+    color: rgb(0, 0, 0);
+}
+.timer-input {
+    border: 4px solid #C65BCF;
+    border-radius: 0.5rem;
+    text-align: right;
+    font-size: x-large;
+    padding: 0.25rem 0.5rem; 
+    font-weight: bold;
+    width: 15rem;
+}
+.timer-buttons {
+    display: flex;
+    gap:0.5rem;
+    justify-content: space-between;
+
+}

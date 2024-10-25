@@ -1,0 +1,29 @@
+.add-container {
+    border: 1px solid #fce4ec;
+    border-radius: 0.5rem;
+    padding: 0.5rem 0.5rem 0 0.5rem; 
+    background-color: rgb(255, 255, 255);
+    margin-top: 0.5rem; 
+    margin-bottom: 0.5rem;
+}
+.add-title {
+    color: rgb(0, 0, 0);
+}
+.add-variables {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+}
+.add-display {
+
+    display: grid;
+    gap: 0.5rem;
+    grid-template-columns: repeat(3, 1fr);
+
+}
+/* .badge1{
+    background-color:#FFDA76;
+} */
+
